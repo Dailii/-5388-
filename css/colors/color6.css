@@ -1,0 +1,175 @@
+a:hover, a:focus {color:#da499b;}
+
+.color_text {color:#da499b;}
+
+.color_bg {background-color:#da499b;}
+
+.overlay {background-color: #da499b;}
+
+
+/* __________ Buttons __________ */
+.btn {border-color: #303030; color:#303030; background: none;}
+.btn:focus, .btn:hover {color:#fff; border-color:#303030; background-color:#303030;}
+
+
+/* colors */
+.btn-white {color:#fff; background:none; border-color:#fff;}
+.btn-white:hover {color:#da499b; background:#fff; border-color:#fff;}
+
+.btn-light {border-color:#aeaeae; color:#aeaeae;}
+.btn-light:hover {background:#aeaeae; color:#fff; border-color:#aeaeae;}
+
+.btn-active {color:#da499b; border-color:#da499b;}
+.btn-active:hover {color:#fff; background-color:#da499b; border-color:#da499b;}
+
+
+/* _________ //Buttons _________ */
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	INDEX PAGE
+/*-----------------------------------------------------------------------------------*/
+.top_line_info {background-color:#da499b;}
+
+
+.navbar-nav li:hover a, .navbar-nav li a:focus, .navbar-nav li.active a {color:#da499b;}
+.sub-menu ul li a:hover, .sub-menu ul li.active a {color:#da499b !important; background:none !important;}
+ul.mega_menu li ol li.active a, ul.mega_menu li ol li a:hover {color:#da499b !important; background:none !important;}
+
+
+.service_item:hover .icon_block:before, .service_item:hover .icon_block:after {border-color:#da499b;}
+.service_item:hover i {color:#da499b;}
+.service_item:hover i:after {border-color:#da499b;}
+.service_item:hover p {color:#da499b;}
+.service_item:hover .btn {color:#da499b; border-color:#da499b;}
+.service_item .btn:hover {background-color:#da499b; color:#fff;}
+
+
+.project_item .hover_img {background-color:#da499b;}
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	//INDEX PAGE
+/*-----------------------------------------------------------------------------------*/
+
+
+.navbar-toggle:hover em {background-color:#da499b;}
+
+
+
+/* __________ Blog __________ */
+
+
+.FlickrImages li a {background-color:#da499b;}
+
+footer .tweet_module .tweet_time a {color:#da499b;}
+
+.foot_menu li a:hover, .foot_menu li.active a {color:#da499b;}
+
+.tweet_module.index_page {background-color:#da499b;}
+/* _________ //Blog _________ */
+
+
+/* __________ About __________ */
+/* __________ Skills __________ */
+.progress-complete {background: #da499b;}
+/* _________ //About _________ */
+
+
+/* __________ Portfolio __________ */
+#filter li a:hover, #filter li a.selected {color:#da499b;}
+
+/* _________ //Portfolio _________ */
+
+
+/* __________ Shop __________ */
+.product_sort #filter li a:hover, .product_sort #filter li a.selected {color:#da499b;}
+
+#price-range .ui-widget-header {background: #da499b;}
+
+.product_item2:hover {border-color:#da499b;}
+
+.product_inf .btn:hover {background-color:#da499b; border-color:#da499b;}
+
+.variable-sizes .product_item .item_btn_in a.btn:hover {background-color:#da499b;}
+
+.sale {background-color:#da499b;}
+
+.type2 .product_price {color:#da499b;}
+.quantity_block .product_inf .btn.add_cart {border-color:#da499b; color:#da499b;}
+.quantity_block .product_inf .btn.add_cart:hover {border-color:#da499b; background-color:#da499b;}
+/* _________ //Shop _________ */
+
+
+/* __________ Shortcodes __________ */
+.nav-tabs li a:hover {color:#da499b;}
+.divider_colored {border-color:#da499b;}
+
+.most_popular .price_item_btn a, .price_item_btn a:hover {background:#da499b;}
+.most_popular .price_item_title {background:#da499b;}
+
+blockquote.type3:before {background-color:#da499b;}
+/* _________ //Shortcodes _________ */
+
+
+/* __________ Footer __________ */
+footer h3 {color:#da499b;}
+footer a {color:#9b9b9b ;}
+footer a:hover {color:#fff;}
+
+
+footer input[type="submit"]:hover {background-color:#da499b;}
+
+
+.copyright span {color:#da499b;}
+
+footer .recent_posts li:hover .post_title {color:#da499b;}
+
+
+#newsletter-form input.contact_btn {background-color:#da499b;}
+/* _________ //Footer _________ */
+
+
+.search_form input.search_btn {background-color:#da499b !important;}
+
+
+.jCarousel_pagination a:hover {background-color:#da499b;}
+
+
+.most_popular .price_item_cost h2,
+.most_popular .price_item_cost h2 span {
+	color:#da499b;
+}
+
+
+.jcarousel-pagination a {background-color:#da499b;}
+
+.flex-control-paging li a {border-color: #da499b;}
+.flex-control-paging li a:hover {background-color:#da499b;}
+.flex-control-paging li a.flex-active {background-color:#da499b;}
+
+footer input.contact_btn:hover {background-color:#da499b;}
+
+
+.product_item .project_descr h4 a:hover {color:#da499b;}
+
+#toggle-sizes a:hover {color:#da499b;}
+
+
+.social a:hover {background-color: #da499b;}
+.product_social a:hover {background-color:#da499b;}
+
+.tags a:hover {background-color:#da499b;}
+
+
+.portfolio_block .project:hover .project_descr {border-bottom-color:#da499b;}
+
+
+
+
+
+
